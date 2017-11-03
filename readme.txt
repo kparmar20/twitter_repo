@@ -6,4 +6,4 @@ This is a twitter tool designed to help tracking of specific keywords (parameter
 More functionality in the pipeline
 
 Requirements:
-Twitter API key can be obtained from api.twitter.com
+Twitter API key can be obtained from https://apps.twitter.com/ 
